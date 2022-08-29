@@ -101,7 +101,11 @@ void dibujar(){
     glVertex2i(-16,-4);
 
     //R
+    glVertex2d(-9,2);
+    glVertex2i(-7,2);
 
+    glVertex2d(-6,2);
+    glVertex2i(-6,-4);
     //A
 
     //N
