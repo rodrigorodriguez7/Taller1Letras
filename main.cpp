@@ -104,43 +104,7 @@ void dibujar(){
 
     //A
 
-    //N
-    glVertex2d(-2,4);
-    glVertex2i(-2,-4);
-
-    glVertex2d(2,4);
-    glVertex2i(2,-4);
-
-    glVertex2d(-2,4);
-    glVertex2i(-1,4);
-
-    glVertex2d(2,4);
-    glVertex2i(1,4);
-
-    glVertex2d(-2,-4);
-    glVertex2i(-1,-4);
-
-    glVertex2d(2,-4);
-    glVertex2i(1,-4);
-
-    glVertex2d(1,4);
-    glVertex2i(1,-1);
-
-    glVertex2d(-1,1);
-    glVertex2i(-1,-4);
-
-    glVertex2d(1,4);
-    glVertex2i(1,-1);
-
-    glVertex2d(-1,1);
-    glVertex2i(-1,-4);
-
-    glVertex2d(-1,4);
-    glVertex2i(1,-1);
-
-    glVertex2d(-1,1);
-    glVertex2i(1,-4);
-
+   
     //G
     glVertex2d(5,0);
     glVertex2i(7,0);
